@@ -1,0 +1,19 @@
+body {
+    margin: 60px auto;
+    text-align: center;
+}
+
+span.container {
+    display: inline-block;
+    width: 600px;
+    background-color: #dfdfdf;
+}
+
+table {
+    border: 2px black;
+    font-size: 2em;
+}
+
+td {
+    border: 2px solid black;
+}
